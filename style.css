@@ -95,6 +95,8 @@ span{
   line-height: 1.2;
 }
 .home-content p{
+    text-align: justify;
+    text-align: left;
     font-size: 18px;
     margin: 25px 0 30px;
 
@@ -153,6 +155,8 @@ span{
  .about-img img  {
     border: 50%;
     width: 380px;
+    
+    
  }
 .about-content h2{
     text-align: left;
@@ -165,6 +169,7 @@ span{
     color: black;
 }
 .about-content p{
+    text-align: justify;
     color: black;
     font-size: 20px;
     margin: 2em 0 3em;
